@@ -1,11 +1,11 @@
 {
-  "versionCode": 10002,
-  "versionName": "1.0.2",
-  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.0.2/Chalkman-Business-1.0.2.apk",
-  "sha256": "b6ae750e61e052d63d415bcd4056b82a897884e0ae22420b09b93dd54695c358",
+  "versionCode": 10003,
+  "versionName": "1.0.3",
+  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.0.3/Chalkman-Business-1.0.3.apk",
+  "sha256": "1d8843e9f3780ba2ed4a26eaec5a2b8f87b99ba0a2f960be9285b57dcdcfea3e",
   "sizeBytes": 10397580,
-  "notes": "Fixes checking for updates. Install this version once by hand; later versions arrive in the app.",
+  "notes": "A cleaner home screen.",
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-11-24T14:58:06.346Z",
+  "publishedAt": "2026-11-24T15:12:11.129Z",
   "signerSha256": "4b7745c93e9e81a38a6a4a03810cc5ad6d37ac13a2d96c5cfd12c017b4749f7f"
 }
