@@ -1,11 +1,11 @@
 {
-  "versionCode": 10001,
-  "versionName": "1.0.1",
-  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.0.1/Chalkman-Business-1.0.1.apk",
-  "sha256": "d4a5cc7fece86a3a885bbc5be3c2714f8d85a857c3d3f78f5e54f051b50ba7f3",
+  "versionCode": 10002,
+  "versionName": "1.0.2",
+  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.0.2/Chalkman-Business-1.0.2.apk",
+  "sha256": "b6ae750e61e052d63d415bcd4056b82a897884e0ae22420b09b93dd54695c358",
   "sizeBytes": 10397580,
-  "notes": "Clearer messages when a setup code or form field is entered incorrectly.",
+  "notes": "Fixes checking for updates. Install this version once by hand; later versions arrive in the app.",
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-11-24T14:44:35.742Z",
+  "publishedAt": "2026-11-24T14:58:06.346Z",
   "signerSha256": "4b7745c93e9e81a38a6a4a03810cc5ad6d37ac13a2d96c5cfd12c017b4749f7f"
 }
