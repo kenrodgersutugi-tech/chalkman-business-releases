@@ -1,11 +1,11 @@
 {
-  "versionCode": 10100,
-  "versionName": "1.1.0",
-  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.1.0/Chalkman-Business-1.1.0.apk",
-  "sha256": "2e7c5b07747953d7a7cc45d2d76d6f65d5eb042204d01a04366420298b87b42f",
+  "versionCode": 10101,
+  "versionName": "1.1.1",
+  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.1.1/Chalkman-Business-1.1.1.apk",
+  "sha256": "42c1497e3bd61c8a97f1e358a5caaed0a40f531859974c1ba5d7f88581b4d613",
   "sizeBytes": 10413964,
-  "notes": "Start a new business with a licence key, a guided setup for owners, and a cleaner design.",
+  "notes": "Smoother navigation: Back retraces your steps and tabs always open. Fixes giving staff a role for a whole business.",
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-11-24T15:44:46.474Z",
+  "publishedAt": "2026-11-24T16:47:13.186Z",
   "signerSha256": "4b7745c93e9e81a38a6a4a03810cc5ad6d37ac13a2d96c5cfd12c017b4749f7f"
 }
