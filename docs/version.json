@@ -1,11 +1,11 @@
 {
-  "versionCode": 10101,
-  "versionName": "1.1.1",
-  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.1.1/Chalkman-Business-1.1.1.apk",
-  "sha256": "42c1497e3bd61c8a97f1e358a5caaed0a40f531859974c1ba5d7f88581b4d613",
+  "versionCode": 10102,
+  "versionName": "1.1.2",
+  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.1.2/Chalkman-Business-1.1.2.apk",
+  "sha256": "65fdbafe005fe20bc57205b4beea328246e446d9f684f7537c24e47b361be064",
   "sizeBytes": 10413964,
-  "notes": "Smoother navigation: Back retraces your steps and tabs always open. Fixes giving staff a role for a whole business.",
+  "notes": "Taps near the bottom of the screen now always register, on every phone.",
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-11-24T16:47:13.186Z",
+  "publishedAt": "2026-11-24T17:07:57.672Z",
   "signerSha256": "4b7745c93e9e81a38a6a4a03810cc5ad6d37ac13a2d96c5cfd12c017b4749f7f"
 }
