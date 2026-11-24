@@ -1,11 +1,11 @@
 {
-  "versionCode": 10102,
-  "versionName": "1.1.2",
-  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.1.2/Chalkman-Business-1.1.2.apk",
-  "sha256": "65fdbafe005fe20bc57205b4beea328246e446d9f684f7537c24e47b361be064",
-  "sizeBytes": 10413964,
-  "notes": "Taps near the bottom of the screen now always register, on every phone.",
+  "versionCode": 10103,
+  "versionName": "1.1.3",
+  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.1.3/Chalkman-Business-1.1.3.apk",
+  "sha256": "a2dec0eb242111aa3e0acdce024d3919270b9a58207596cf1e84bdac99651c25",
+  "sizeBytes": 10888412,
+  "notes": "A refined design: crisper type, calmer buttons, a fully tappable tab bar and clearer finance reports.",
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-11-24T17:07:57.672Z",
+  "publishedAt": "2026-11-24T18:48:28.227Z",
   "signerSha256": "4b7745c93e9e81a38a6a4a03810cc5ad6d37ac13a2d96c5cfd12c017b4749f7f"
 }
