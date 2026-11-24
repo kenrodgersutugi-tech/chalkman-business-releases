@@ -1,1 +1,11 @@
-{}
+{
+  "versionCode": 10000,
+  "versionName": "1.0.0",
+  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.0.0/Chalkman-Business-1.0.0.apk",
+  "sha256": "339a311797105ac0d93c719cdbcc6cc670a809fe6ab397da2c5cd2087957faea",
+  "sizeBytes": 10397580,
+  "notes": "First release of Chalkman Business: fuel stations, dairy, rental properties and finance, working offline with live updates.",
+  "minSupportedVersionCode": 0,
+  "publishedAt": "2026-11-24T14:14:02.926Z",
+  "signerSha256": "4b7745c93e9e81a38a6a4a03810cc5ad6d37ac13a2d96c5cfd12c017b4749f7f"
+}
