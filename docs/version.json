@@ -1,11 +1,11 @@
 {
-  "versionCode": 10104,
-  "versionName": "1.1.4",
-  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.1.4/Chalkman-Business-1.1.4.apk",
-  "sha256": "1b6b7f7890ba5f1b402d8211a372f57de0be953deb2ffff02f99ef5dd271158b",
-  "sizeBytes": 10904796,
-  "notes": "A more cohesive design with gentle motion, a Needs attention card on Home, search in People, Devices and Activity, and clearer help when you can't sign in.",
+  "versionCode": 10105,
+  "versionName": "1.1.5",
+  "apk": "https://github.com/kenrodgersutugi-tech/chalkman-business-releases/releases/download/v1.1.5/Chalkman-Business-1.1.5.apk",
+  "sha256": "e517defe51ef94d59cb88c6d4d39332094dc8cf74e75760482f2418bc97e11bc",
+  "sizeBytes": 10888412,
+  "notes": "Clearer activity log (area first, one-line details) and correct wording such as \"1 person\".",
   "minSupportedVersionCode": 0,
-  "publishedAt": "2026-11-24T21:23:46.830Z",
+  "publishedAt": "2026-11-25T11:57:13.499Z",
   "signerSha256": "4b7745c93e9e81a38a6a4a03810cc5ad6d37ac13a2d96c5cfd12c017b4749f7f"
 }
